@@ -77,7 +77,7 @@ And running the query will return the following object:
 }
 ```
 
-Comparing these results to the results of the first query we ran, we can see that the `users`field is now named `myUsersAlias` in the returned object. 
+Comparing these results to the results of the first query we ran, we can see that the `users` field is now named `myUsersAlias` in the returned object. 
 Aliasing also allows a developer to query the same field several times, for different purposes:
 
 ```graphql
